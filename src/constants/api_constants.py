@@ -18,10 +18,10 @@ def url_patch_put_delete_booking(booking_id):
 # using class(OOPS concept)
 
 #Type of constants:
-BASE_URL = "https://restful-booker.herokuapp.com"  # Normal constant
+# BASE_URL = "https://restful-booker.herokuapp.com"  # Normal constant
 
-def base_url():
-    return "https://restful-booker.herokuapp.com"  # function constant
+# def base_url():
+#    return "https://restful-booker.herokuapp.com"  # function constant
 
 # within the class constant
 class APIConstants(object):
