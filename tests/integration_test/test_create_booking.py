@@ -28,5 +28,5 @@ class TestCreateBooking(object):
     def test_create_booking_tc2(self):
     # URL, Headers, Payload,
         response = post_requests(url = APIConstants.url_create_booking(), auth = None, headers = common_headers_json(),
-                             payload = None, in_json = False)
-        verify_http_status_code(response,400)
+                             payload = {}, in_json = False)
+        verify_http_status_code(response,500)

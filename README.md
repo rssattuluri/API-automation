@@ -23,5 +23,20 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 
 ```
+```
+pip install pytest-xdist
+```
+```
+pytest -n auto tests/integration_test/test_create_booking.py
+```
 
+To Work with the Excel
+```
+pip install openpyxl
+```
+
+To work wit JSON Schema
+```
+pip install jsonschema
+```
 
