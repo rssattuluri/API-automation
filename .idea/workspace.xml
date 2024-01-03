@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f6eb6b-ef32-42e7-b01d-b05b13c72951" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/json_schema/schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/json_schema/test_jsonschema_validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/demoenv/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/demoenv/test_sample.py" afterDir="false" />
-    </list>
+    <list default="true" id="81f6eb6b-ef32-42e7-b01d-b05b13c72951" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
